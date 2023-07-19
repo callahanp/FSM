@@ -1,6 +1,10 @@
 # c172pSim
 
-This project is for work on my home cockpit for the C172P (1982)  As of July 2023, THERE IS '''NO WORKING SOFTWARE or HARDWARE'''.  Initial work on comunicating between a c++ program, Flightgear and Arduinos is in progress.
+This project is for work on my home cockpit for the C172P (1982)  
+
+**As of July 2023, THERE IS NO WORKING SOFTWARE or HARDWARE.**
+
+Initial work on comunicating between a C++ program, Flightgear and Arduinos is in progress.
 
 The cockpit will be used with FlightGear, an open source Flight Simulator.
 
