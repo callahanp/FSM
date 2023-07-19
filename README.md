@@ -10,7 +10,9 @@ The cockpit will be used with FlightGear, an open source Flight Simulator.
 
 The project will feature a C++ application which will run on Ubuntu Linux or a raspberry Pi. It will manage communication with the Flightgear Simulator and Cockpit hardware,   Data driving multiplexers, display controllers, stepper motor drivers, air-core drivers can be routed to Raspberry Pi gpio pins, or Separate Raspberry Pis orArduinos Arduino supported devices include Arduino Uno, Arduino Mega2560 and Arduino Pro Minis.
 
-The main program in C++ will be called FSM.  This can be interpreted as either of the following:
+The main program in C++ will be called FSM.  
 
-- Flight Sim Middleware
+Disambiguation: FSM can be interpreted as either of the following:
+
+- **Flight Sim Middleware**
 - **[Flying Spagetti Monster](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster)**
